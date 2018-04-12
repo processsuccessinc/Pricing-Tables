@@ -1,0 +1,25 @@
+{
+  "name": "pricing-tables",
+  "version": "1.0.0",
+  "description": "Tabla de Precios ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Eduardo Muñoz Alvear",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.6",
+    "css-mqpacker": "^6.0.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-pug": "^4.0.1",
+    "postcss-color-function": "^4.0.1",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0",
+    "postcss-nested": "^3.0.0"
+  }
+}
