@@ -43,7 +43,7 @@ body{
   @media (--small){
     position:relative;
     left:0;
-    margin:20px auto;
+    margin:18px auto;
   }
 
   .name{

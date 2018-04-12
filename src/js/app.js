@@ -4,7 +4,6 @@ let toggle = document.querySelector('.toggle'),
     btnCheck = [...document.querySelectorAll('.btncheck')],
     tableMonthly = [...document.querySelectorAll('.tablePricing-monthly')],
     tableYearly = [...document.querySelectorAll('.tablePricing-yearly')];
-    console.log(wrapperTable);
 
 
 const flipTable = (e) =>{
