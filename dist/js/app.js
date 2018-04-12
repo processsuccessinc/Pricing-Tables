@@ -8,7 +8,6 @@ var toggle = document.querySelector('.toggle'),
     btnCheck = [].concat(_toConsumableArray(document.querySelectorAll('.btncheck'))),
     tableMonthly = [].concat(_toConsumableArray(document.querySelectorAll('.tablePricing-monthly'))),
     tableYearly = [].concat(_toConsumableArray(document.querySelectorAll('.tablePricing-yearly')));
-console.log(wrapperTable);
 
 var flipTable = function flipTable(e) {
 
